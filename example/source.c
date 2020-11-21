@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 namespace test
 {
 	struct mystruct
